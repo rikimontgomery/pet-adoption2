@@ -32,6 +32,15 @@ h2 {
 .credit {
   display: inline-block;
 }
+<<<<<<< HEAD
  /*.hidden {
 display: none;
  }*/
+=======
+
+#newsletterForm {
+  text-align: left;
+  width: 300px;
+  margin: auto;
+}
+>>>>>>> 23ef1e379f01af98ea1a85dbdae3ec46c7cf6c0b
