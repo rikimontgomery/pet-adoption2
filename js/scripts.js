@@ -36,4 +36,3 @@ $(document).ready(function() {
 //   });
 //
 });
->>>>>>> 47267a92f2638ea4707df9725ade4e417f06e63c
