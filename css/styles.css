@@ -32,3 +32,6 @@ h2 {
 .credit {
   display: inline-block;
 }
+ .hidden {
+display: none;
+ }
