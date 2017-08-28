@@ -32,3 +32,9 @@ h2 {
 .credit {
   display: inline-block;
 }
+
+#newsletterForm {
+  text-align: left;
+  width: 300px;
+  margin: auto;
+}
